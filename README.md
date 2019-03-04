@@ -1,5 +1,5 @@
 # Hologram
-Ubiquitous augmented reality for collective sense-making. Built using Holochain.
+Ubiquitous augmented realities to aid collective sense-making. Built using Holochain.
 
 A 'hologram', in this sense, is a 1:1 mapping of a virtual reality onto the Globe. The idea is that agents can create and place virtual objects onto this augmented layer, and others running the same version of Hologram can observe and interact with these virtual objects using any AR-compatible device.
 
